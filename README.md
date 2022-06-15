@@ -86,7 +86,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [https://github.com/Odania-IT/aws-kubectl](OdaniaIT)
+* [OdaniaIT](https://github.com/Odania-IT/aws-kubectl)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
