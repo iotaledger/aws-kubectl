@@ -40,17 +40,7 @@
     <a href="https://github.com/iotaledger/template">
         <img src="banner.png" alt="Banner">
     </a>
-    <h3 align="center">project_title</h3>
-    <p align="center">
-        project_description
-        <br />
-        <a href="https://wiki.iota.org"><strong>Explore the docs »</strong></a>
-        <br />
-        <br />
-        <a href="https://github.com/iotaledger/template/labels/bug">Report Bug</a>
-        ·
-        <a href="https://github.com/iotaledger/template/labels/request">Request Feature</a>
-    </p>
+    <h3 align="center">AWS-Kubectl</h3>  
 </div>
 
 

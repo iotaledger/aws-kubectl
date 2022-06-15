@@ -4,7 +4,7 @@ name: Publish API on DockerHub
 on:
   push:
     branches:
-      - 'master'
+      - 'main'
 
 jobs:
   push_audit_trail_to_registry:
